@@ -1,0 +1,4 @@
+paddleocr
+langchain
+ollama
+pillow
